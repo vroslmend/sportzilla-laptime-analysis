@@ -1,10 +1,9 @@
-# Sportzilla LapTime Analysis 🏎️
+# Lahore Karting Lap Time Analysis 🏎️
 
 ### Sportzilla Last Time Analysis: 29th Decemeber 2025
-### Apex Autdrome Last Time Analysis: 9th December 2025
+### Apex Autodrome Last Time Analysis: 9th December 2025
 
-**Sportzilla LapTime Analysis** is a data-analysis project designed to help visualize and gain insights from racing lap-time data on tracks we have visited.  
-By loading race data (e.g. lap times per driver, split times, etc.) and running our Jupyter notebooks, you can quickly generate statistics, charts, and summaries that help you understand performance, consistency, and trends over time.
+**Lahore Karting Lap Time Analysis** is a data-analysis project designed to help visualize and gain insights from racing lap-time data on tracks we have visited. By loading race data (e.g. lap times per driver, split times, etc.) and running our Jupyter notebooks, you can quickly generate statistics, charts, and summaries that help you understand performance, consistency, and trends over time. This works for the RaceFacer interface only.
 
 ## 📂 Project Structure
 - **{trackname}_scrapper.csv** — Website data scrapper for lap times of each driver from RaceFacer
