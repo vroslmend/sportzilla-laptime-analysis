@@ -1,0 +1,9 @@
+beautifulsoup4>=4.12,<5
+jupyterlab>=4,<5
+matplotlib>=3.8,<4
+nbconvert>=7.16,<8
+numpy>=1.26,<3
+pandas>=2.2,<3
+seaborn>=0.13,<1
+selenium>=4.18,<5
+webdriver-manager>=4,<5
